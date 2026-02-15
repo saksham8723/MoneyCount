@@ -118,8 +118,4 @@ src/main/resources/
 - CI: GitHub Actions for build/test
 - Flyway migrations
 
-## Security Notice
-If this repository has ever been public with real credentials in `application.properties`, immediately rotate those secrets (DB, email, JWT) and switch to environment variables or a non-committed config file (e.g., `application-example.properties`).
 
-## License
-This project is for educational and portfolio purposes. Add an explicit license if you plan to distribute.
